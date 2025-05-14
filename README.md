@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="quadrentity.jpg" width="200" alt="CrimsonPing Logo">
+</p>
+
+
 MIT License
 
 Copyright (c) 2025 [Your Name]
